@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18610970.svg)](https://doi.org/10.5281/zenodo.18610970)
+[![DOI](https://zenodo.org/badge/DOI/10.1088/2632-2153/ae51e0.svg)](https://doi.org/10.1088/2632-2153/ae51e0)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19372637.svg)](https://doi.org/10.5281/zenodo.19372637)
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/valenpe7/ae51e0/blob/main/analysis.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/ae51e0/main?urlpath=lab/tree/analysis.ipynb)
 
@@ -10,7 +11,7 @@ The supplementary material consists of raw data and a **[Jupyter](https://jupyte
 
 ### Obtaining the data
 
-The raw data used in this work are openly available on **[Zenodo](https://zenodo.org/records/18610970)**. You may download the dataset as a `.zip` archive (X.X MB) from the following link: [https://zenodo.org/records/18610970/files/data.zip?download=1](https://zenodo.org/records/18610970/files/data.zip?download=1).
+The raw data used in this work are openly available on **[Zenodo](https://zenodo.org/records/19372637)**. You may download the dataset as a `.zip` archive (X.X MB) from the following link: [https://zenodo.org/records/19372637/files/data.zip?download=1](https://zenodo.org/records/19372637/files/data.zip?download=1).
 
 ### Obtaining the notebook
 
