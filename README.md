@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.1088/2632-2153/ae51e0.svg)](https://doi.org/10.1088/2632-2153/ae51e0)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19372637.svg)](https://doi.org/10.5281/zenodo.19372637)
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/valenpe7/ae51e0/blob/main/analysis.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/ae51e0/main?urlpath=lab/tree/analysis.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/valenpe7/ae51e0/blob/main/data_analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/ae51e0/main?urlpath=lab/tree/data_analysis.ipynb)
 
 # Optimized matching conditions for self-guided laser wakefield accelerators [Supplementary material]
 
