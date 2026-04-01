@@ -11,7 +11,7 @@ The supplementary material consists of raw data and a **[Jupyter](https://jupyte
 
 ### Obtaining the data
 
-The raw data used in this work are openly available on **[Zenodo](https://zenodo.org/records/19372637)**. You may download the dataset as a `.zip` archive (X.X MB) from the following link: [https://zenodo.org/records/19372637/files/data.zip?download=1](https://zenodo.org/records/19372637/files/data.zip?download=1).
+The raw data used in this work are openly available on **[Zenodo](https://zenodo.org/records/19372637)**. You may download the dataset as a `.zip` archive (75.8 kB) from the following link: [https://zenodo.org/records/19372637/files/data.zip?download=1](https://zenodo.org/records/19372637/files/data.zip?download=1).
 
 ### Obtaining the notebook
 
