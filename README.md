@@ -2,37 +2,41 @@
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/valenpe7/ae51e0/blob/main/analysis.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/ae51e0/main?urlpath=lab/tree/analysis.ipynb)
 
-# Optimized matching conditions for self-guided laser wakefield accelerators
+# Optimized matching conditions for self-guided laser wakefield accelerators [Supplementary material]
 
-This repository contains supplementary material for the paper P. Valenta et al., "Optimized matching conditions for self-guided laser wakefield accelerators", *Machine Learning: Science and Technology* **7**, 025030 (2026); [https://doi.org/10.1088/2632-2153/ae51e0](https://doi.org/10.1088/2632-2153/ae51e0).
+This repository provides supplementary material for the paper P. Valenta et al., "Optimized matching conditions for self-guided laser wakefield accelerators", *Machine Learning: Science and Technology* **7**, 025030 (2026); [https://doi.org/10.1088/2632-2153/ae51e0](https://doi.org/10.1088/2632-2153/ae51e0).
 
-The supplementary material consists of the raw data and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for generating figures.
+The supplementary material consists of raw data and a **[Jupyter](https://jupyter.org/)** notebook containing the analysis commands used to generate the figures in the paper. The analysis is performed in Python and relies on several open-source packages (see `requirements.txt`).
 
-The analysis is performed using Python programming language and relies on several Python packages (see the `requirements.txt` file).
+### Obtaining the data
 
-### How to obtain the data
+The raw data used in this work are openly available on **[Zenodo](https://zenodo.org/records/18610970)**. You may download the dataset as a `.zip` archive (X.X MB) from the following link: [https://zenodo.org/records/18610970/files/data.zip?download=1](https://zenodo.org/records/18610970/files/data.zip?download=1).
 
-The raw data used in this work are openly available in a **[Zenodo](https://zenodo.org/records/18610970)** repository. You may download the data as a .zip archive (X.X MB) on the following link: [https://zenodo.org/records/18610970/files/data.zip?download=1](https://zenodo.org/records/18610970/files/data.zip?download=1).
+### Obtaining the notebook
 
-### How to obtain the notebook
+The Jupyter notebook `data_analysis.ipynb` is stored in this GitHub repository. You can either:
 
-The notebook `analysis.ipynb` is stored in this GitHub repository. You may either download the whole repository as a .zip archive by selecting "Code" and then "Download ZIP", or use `git`:
+1. Download the repository as a `.zip` archive by selecting **Code → Download ZIP**, or  
+2. Clone the repository with `git`:
 
-1. Clone the repository: ``` $> git clone https://github.com/valenpe7/ae51e0.git ```
-2. Pull in new changes: ``` $> git pull ```
-
-### How to launch the notebook
-
-If you have downloaded the notebook and the data and have all the requirements installed on your computer, you may launch the notebook locally. Alternatively, if you do not have installed all the requirements, you may launch the notebook on-line using
-* **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/ae51e0/blob/main/analysis.ipynb
-
-* **Binder** (interactive): https://mybinder.org/v2/gh/valenpe7/ae51e0/main?urlpath=lab/tree/analysis.ipynb
-
-### How to cite
-
-Cite as: P. Valenta et al., *Mach. Learn.: Sci. Technol.* **7**, 025030 (2026).
+```bash
+git clone https://github.com/valenpe7/ae51e0.git
 ```
-@article{doi:10.1088/2632-2153/ae51e0,
+
+### Launching the notebook
+
+If you have downloaded the notebook and data and installed all required dependencies, you can run the notebook locally. If you do not have all the requirements installed, you can launch the notebook online:
+
+- **Jupyter nbviewer** (non-interactive): [https://nbviewer.org/github/valenpe7/ae51e0/blob/main/data_analysis.ipynb](https://nbviewer.org/github/valenpe7/ae51e0/blob/main/data_analysis.ipynb)
+
+- **Binder** (interactive): [https://mybinder.org/v2/gh/valenpe7/ae51e0/main?urlpath=lab/tree/data_analysis.ipynb](https://mybinder.org/v2/gh/valenpe7/ae51e0/main?urlpath=lab/tree/data_analysis.ipynb)
+
+### Citation
+
+If you use this material, please cite: P. Valenta et al., *Mach. Learn.: Sci. Technol.* **7**, 025030 (2026).
+
+```bibtex
+@article{10.1088/2632-2153/ae51e0,
   title = {Optimized matching conditions for self-guided laser wakefield accelerators},
   author = {Valenta, P. and Miller, K. G. and Russell, B. K. and Lamač, M. and Jech, M. and Grittani, G. M. and Bulanov, S. V.},
   journal = {Machine Learning: Science and Technology},
@@ -48,10 +52,6 @@ Cite as: P. Valenta et al., *Mach. Learn.: Sci. Technol.* **7**, 025030 (2026).
 }
 ```
 
-### Acknowledgements
-
-This work was supported by the NSF and Czech Science Foundation (NSF-GACR collaborative Grant No. 2206059 and Czech Science Foundation Grant No. 22-42963 L) and by the project ‘e-INFRA CZ’ (ID:90254) from the Ministry of Education, Youth and Sports of the Czech Republic. This material is based upon work supported by the Office of Fusion Energy Sciences under Award Numbers DE SC0021057, the Department of Energy (DOE) [National Nuclear Security Administration (NNSA)] University of Rochester ‘National Inertial Confinement Fusion Program’ under Award Number DE NA0004144. B.K.R. was supported by the US Department of Energy High-Energy-Density Laboratory Plasma Science program under Grant No. DE-SC0020103.
-
 ---
 
-In case of any questions, please contact the corresponding author or submit an **[issue](https://github.com/valenpe7/ae51e0/issues)** to this GitHub project repository.
+For questions, please contact the corresponding author or submit an **[issue](https://github.com/valenpe7/ae51e0/issues)** in this GitHub repository.
