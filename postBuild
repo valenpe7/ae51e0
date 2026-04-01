@@ -1,0 +1,10 @@
+#!/bin/bash
+
+export LC_ALL=C
+dir=$(pwd)
+
+# copy data
+cd $dir
+wget -q -O data.zip "https://zenodo.org/records/19372637/files/data.zip?download=1" 
+unzip data.zip
+rm -f $dir/data.zip
